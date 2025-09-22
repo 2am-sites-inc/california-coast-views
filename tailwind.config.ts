@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // California Ocean Theme Colors
+        ocean: {
+          DEFAULT: "hsl(var(--ocean-blue))",
+          light: "hsl(var(--ocean-blue-light))",
+        },
+        sand: "hsl(var(--sand-warm))",
+        sunset: "hsl(var(--sunset-orange))",
+        coastal: "hsl(var(--coastal-navy))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
